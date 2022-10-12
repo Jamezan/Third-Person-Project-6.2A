@@ -2518,6 +2518,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7d45590afb8abab4e84cdbdd623f1d10, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  numberOfItems: 5
+  itemsSelectionPanel: {fileID: 696301666}
   ItemsAvailable:
   - {fileID: 11400000, guid: 9b471f2705ffc02409a30b04c0f11311, type: 2}
   - {fileID: 11400000, guid: 3948544972bf80e42bb81d798ea8d6bd, type: 2}
