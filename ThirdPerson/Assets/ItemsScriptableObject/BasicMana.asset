@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 318a15243b44ce94d87e745f6acde032, type: 3}
   m_Name: BasicMana
   m_EditorClassIdentifier: 
-  title: 
+  title: BasicMana
   icon: {fileID: 21300000, guid: d7e87acba6263b04db898e8e8626b150, type: 3}
   increaseValue: 25
   type: 1

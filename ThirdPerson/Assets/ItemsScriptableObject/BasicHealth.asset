@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 318a15243b44ce94d87e745f6acde032, type: 3}
   m_Name: BasicHealth
   m_EditorClassIdentifier: 
-  title: 
+  title: BasicHealth
   icon: {fileID: 21300000, guid: f07016b493a9e10409f45b843b30fce2, type: 3}
   increaseValue: 25
   type: 0
